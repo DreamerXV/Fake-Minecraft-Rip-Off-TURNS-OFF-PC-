@@ -6,4 +6,4 @@ Fake .dll Files -
 Fake .bat Files -
 Fake Win_64_Laucher -
 Pc Turn Off File -
-Name Of Turn Off File : Minecraft Launcher.exe
+Name Of Turn Off Pc File : Minecraft Launcher.exe
